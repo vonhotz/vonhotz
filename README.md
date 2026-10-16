@@ -62,32 +62,38 @@
 ###
 
 
+
 <h3 align="left">🔥 My Stats</h3>
 
 ###
 
-<div align="center">
-  <img
-    height="220"
-    src="https://github-readme-stats.vercel.app/api?username=vonhotz&show_icons=true&theme=dracula&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="220"
-    src="https://streak-stats.demolab.com?user=vonhotz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
-    alt="GitHub Streak Stats"
-  />
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=vonhotz&show_icons=true&theme=dracula&hide_border=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://streak-stats.demolab.com?user=vonhotz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
+        alt="GitHub Streak Stats"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        height="165"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonhotz&layout=compact&theme=dracula&hide_border=true"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ###
-
-<div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonhotz&layout=compact&theme=dracula&hide_border=true"
-    alt="Most Used Languages"
-  />
-</div>
 
 ###
 
