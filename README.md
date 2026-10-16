@@ -10,9 +10,20 @@
   problem-solving, and building useful technology.
 </p>
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/vonhotz/?isSelfProfile=true" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<div align="center">
+   <a href="https://your-portfolio-url.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Website-E67E22?style=for-the-badge&logo=googlechrome&logoColor=white"
+      height="25"
+      alt="Website"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/vonhotz/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
+      height="25"
+      alt="LinkedIn"
+    />
   </a>
 </div>
 
@@ -22,7 +33,7 @@
 
 ###
 
-<p data-importer="text" align="left">- 🎓 Systems and Computer Engineering graduate.<br>- 🌱 Currently strengthening my Python skills and building practical projects.<br>- 💻 Working toward becoming a Full Stack Developer.<br>- 🔐 Interested in Cybersecurity, secure coding, and application security.<br>- 🤖 Exploring AI integration and how to build smarter applications.<br>- 🐧 Interested in Linux, automation, and developer tools.<br>- 🎯 Focused on continuous learning, problem-solving, and real-world projects.<br>- 🏀 Basketball enthusiast.<br><br>I believe in learning by building, understanding the fundamentals,<br>and improving a little with every project.</p>
+<p data-importer="text" align="left">- 🎓 Systems and Computer Engineering graduate.<br>- 🌱 Currently strengthening my Python skills and building practical projects.<br>- 💻 Working toward becoming a Full Stack Developer.<br>- 🔐 Interested in Cybersecurity, secure coding, and application security.<br>- 🤖 Exploring AI integration and how to build smarter applications.<br>- 🐧 Interested in Linux, automation, and developer tools.<br>- 🎯 Focused on continuous learning, problem-solving, and real-world projects.<br>- 🏀 Basketball enthusiast.<br></p>
 
 ###
 
@@ -50,29 +61,40 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=vonhotz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<h3 align="left">🔥 My Stats</h3>
 
 ###
 
 <div align="center">
-<img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonhotz&layout=compact&theme=dracula&hide_border=true"
-    alt="Most used languages"
+  <img
+    height="220"
+    src="https://github-readme-stats.vercel.app/api?username=vonhotz&show_icons=true&theme=dracula&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="220"
+    src="https://streak-stats.demolab.com?user=vonhotz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
+    alt="GitHub Streak Stats"
   />
 </div>
 
 ###
 
 <div align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonhotz&layout=compact&theme=dracula&hide_border=true"
+    alt="Most Used Languages"
+  />
+</div>
 
-  <h2>🎮 My Contribution Graph</h2>
+###
+
+
+###
+
+<div align="center">
 
   <picture>
     <source
