@@ -10,96 +10,86 @@
   problem-solving, and building useful technology.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Systems and Computer Engineering graduate.
-- 🌱 Currently strengthening my Python skills and building practical projects.
-- 💻 Working toward becoming a Full Stack Developer.
-- 🔐 Interested in Cybersecurity, secure coding, and application security.
-- 🤖 Exploring AI integration and how to build smarter applications.
-- 🐧 Interested in Linux, automation, and developer tools.
-- 🎯 Focused on continuous learning, problem-solving, and real-world projects.
-- 🏀 Basketball enthusiast.
-
-I believe in learning by building, understanding the fundamentals,
-and improving a little with every project.
-
-## 🚀 My Roadmap
-
-- [x] Start learning programming and Python fundamentals
-- [x] Explore object-oriented programming
-- [ ] Build and publish more Python projects
-- [ ] Strengthen Git, GitHub, and Linux skills
-- [ ] Learn backend development and REST APIs
-- [ ] Develop full stack applications
-- [ ] Integrate AI APIs into practical projects
-- [ ] Explore cybersecurity and secure software development
-
-*This roadmap reflects my learning journey and will evolve as I progress.*
-
-## 🛠️ Technologies & Tools
-
-### Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode" alt="Python, Git, GitHub, Linux and VS Code" />
-</p>
-
-### Exploring Next
-
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,nodejs,react,fastapi,docker" alt="Technologies to explore" />
-</p>
-
-These are learning goals, not a claim of professional proficiency
-in every technology listed.
-
-## 📂 Featured Projects
-
-I'm building my portfolio as I develop my skills.
-
-Check my repositories for my latest work:
-
-<p>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore my repositories" />
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/vonhotz/?isSelfProfile=true" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-</p>
+</div>
 
-## 📊 GitHub Statistics
+###
 
-<p align="center">
-  <img
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+
+###
+
+<p data-importer="text" align="left">- 🎓 Systems and Computer Engineering graduate.<br>- 🌱 Currently strengthening my Python skills and building practical projects.<br>- 💻 Working toward becoming a Full Stack Developer.<br>- 🔐 Interested in Cybersecurity, secure coding, and application security.<br>- 🤖 Exploring AI integration and how to build smarter applications.<br>- 🐧 Interested in Linux, automation, and developer tools.<br>- 🎯 Focused on continuous learning, problem-solving, and real-world projects.<br>- 🏀 Basketball enthusiast.<br><br>I believe in learning by building, understanding the fundamentals,<br>and improving a little with every project.</p>
+
+###
+
+<h3 data-importer="text" align="left">🛠 Tech stack</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=vonhotz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+<img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-    alt="GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonhotz&layout=compact&theme=dracula&hide_border=true"
     alt="Most used languages"
   />
-</p>
+</div>
 
-## 🤝 Let's Connect
+###
 
-I'm always interested in learning from other developers,
-sharing ideas, and collaborating on meaningful projects.
+<div align="center">
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+  <h2>🎮 My Contribution Graph</h2>
 
----
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/vonhotz/vonhotz/output/bomberman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/vonhotz/vonhotz/output/bomberman-contribution-graph.svg"
+    />
+    <img
+      alt="Bomberman contribution graph"
+      src="https://raw.githubusercontent.com/vonhotz/vonhotz/output/bomberman-contribution-graph.svg"
+      width="100%"
+    />
+  </picture>
 
-<p align="center">
-  <i>Learning, building, and improving one project at a time. 🚀</i>
-</p>
+</div>
+
+
