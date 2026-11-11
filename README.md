@@ -74,10 +74,11 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=vonhotz&show_icons=true&theme=dracula&hide_border=true"
-        alt="GitHub Stats"
-      />
+     <img
+  src="https://github-stats-extended.vercel.app/api?username=vonhotz&show_icons=true&theme=dracula&hide_border=true"
+  height="220"
+  alt="GitHub Stats"
+/>
     </td>
     <td width="50%" align="center">
       <img
@@ -88,11 +89,11 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img
-        height="165"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonhotz&layout=compact&theme=dracula&hide_border=true"
-        alt="Most Used Languages"
-      />
+     <img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=vonhotz&layout=compact&theme=dracula&hide_border=true"
+  height="165"
+  alt="Most Used Languages"
+/>
     </td>
   </tr>
 </table>
